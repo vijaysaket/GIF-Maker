@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GIF-Maker/static/css/main.59888323.css",
+    "main.js": "/GIF-Maker/static/js/main.92430bb7.js",
+    "index.html": "/GIF-Maker/index.html",
+    "main.59888323.css.map": "/GIF-Maker/static/css/main.59888323.css.map",
+    "main.92430bb7.js.map": "/GIF-Maker/static/js/main.92430bb7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59888323.css",
+    "static/js/main.92430bb7.js"
+  ]
+}
